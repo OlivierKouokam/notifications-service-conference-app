@@ -4,8 +4,6 @@ env:
 
 on:
   push:
-    paths:
-      - 'notifications-service/**'
     branches: ['main']
 
 jobs:
